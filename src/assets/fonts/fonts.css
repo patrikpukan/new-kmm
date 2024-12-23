@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "KinoUsmevC-Regular";
+  src: url("./KinoUsmevC-Regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "KinoUsmevC-Medium";
+  src: url("./KinoUsmevC-Medium.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}

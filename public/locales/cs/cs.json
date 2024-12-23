@@ -1,0 +1,34 @@
+{
+  "mainInfo": {
+    "mainTitle": "Klub mladých manažerů",
+    "mainDescription": "Už více než 15 let je naší misí ukazovat studentům potenciál ze světa managementu prostřednictvím přednášek a akcí.",
+    "mainAboutUsTitle": "Kdo jsme",
+    "mainAboutUsText": "Jsme studentská organizace na VŠE, které management nestačil pouze ve skriptech. Od roku 2005 aktivně propojujeme studenty s vysokými ambicemi. Naším posláním je poskytnout studentům možnost získat znalosti od lidí z oboru prostřednictvím přednášek, seminářů a networkingových akcí. Propojujeme akademické znalosti se zkušenostmi manažerů firem. Mimo vzdělávací akce se snažíme naši komunitu podporovat také zábavnými a neformálními akcemi, protože nejlépe se učíme společně."
+  },
+  "mainCards": {
+    "cardWorkshop": {
+      "title": "Workshopy s manažery",
+      "text": "Vzdělávame se od zkušenejších. V rámci semestru pořádáme akce a workshopy s našimi partnery z ruznych oblastí managementu. Ti nám předávají své know how, tipy nebo s námi zdílí jak se to nemá dělat."
+    },
+    "cardSpeeddating": {
+      "title": "Kariérní Speed-dating",
+      "text": "Tato akce nabízí jedinečnou příležitost pro ambiciózní studenty, kteří chtějí najít své místo ve světě práce. Cílem je spojit tebe, jako hledajícího studenta, s firmami, které mají zájem o nabírání nových talentů. Během akce se osobně setkáš s vybranými zástupcirůzných společností, strávíš s každým přesně 7 minut, a poté přejdeš k dalšímu stánku."
+    },
+    "cardNetworking": {
+      "title": "Networking se studenty",
+      "text": "Studenti jsou důvodem naší existence. Naším posláním je propojovat studenty v oblasti managementu. Abychom udrželi mladé talenty ve spojení, pravidelně se scházíme na formálních i neformálních setkáních, sdílíme zkušenosti a poznatky a rozhodně se nezapomínáme bavit. Na své členy nezapomínáme, takže zůstáváme ve spojení i po ukončení studia, protože pomáhat si navzájem je přece lidské."
+    }
+  },
+  "partnerInfo": {
+    "eyName": "EY",
+    "eyText": "EY is a global leader in assurance, tax, transaction and advisory services. The insights and quality services we deliver help build trust and confidence in the capital markets and in economies the world over. We develop outstanding leaders who team to deliver on our promises to all of our stakeholders. In so doing, we play a critical role in building a better working world for our people, for our clients and for our communities.",
+    "vseName": "Vysoká škola ekonomická v Praze",
+    "vseText": "Vysoká škola ekonomická zaštiťuje působení našeho klubu již od začátku. Díky VŠE máme možnost vybírat do našich řad aktivní, spolehlivé a pracovité členy, kteří se podílejí na dalším rozvoji školy a klubu. S takovým partnerem máme možnost vytvářet něco nového, poznávat zajímavé lidi a prosazovat zajímavé projekty. VŠE nám jsou k dispozici taky se svými prostory, ktoré slouží k naši seberealizaci a projektovému plánování.",
+    "CSASName": "Česká spořitelna",
+    "CSASText": "Česká spořitelna je generálním partnerem VŠE a studentských spolků a již dlouhé roky přispívá k rozvoji a vzdělávání studentů. Zástupci ČS s náma aktivně spolupracují a snaží se přizpůsobit našim potřebám aby jejich pomoc byla co nejúčinnější.Česká Spořka patří zároveň mezi největší zaměstnavatele v ČR a poskytují tak studentům příležitost začít nebo posunout jejich kariéru přímo na svých židlích."
+  },
+  "memberInfo": {
+    "memberTitle": "Members",
+    "memberDescription": "This is a simple example of how to use i18n in React"
+  }
+}

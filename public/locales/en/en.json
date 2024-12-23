@@ -1,0 +1,16 @@
+{
+  "mainInfo": {
+    "mainTitle": "Welcome to the React i18n example",
+    "mainDescription": "This is a simple example of how to use i18n in React",
+    "mainAboutUs": "About us",
+  },
+  "partnerInfo": {
+    "eyText": "EY is a global leader in assurance, tax, transaction and advisory services. The insights and quality services we deliver help build trust and confidence in the capital markets and in economies the world over. We develop outstanding leaders who team to deliver on our promises to all of our stakeholders. In so doing, we play a critical role in building a better working world for our people, for our clients and for our communities.",
+    "vseText": "VSE blabla",
+    "CSASText": "CSAS blabla"
+  },
+  "memberInfo": {
+    "memberTitle": "Members",
+    "memberDescription": "This is a simple example of how to use i18n in React"
+  }
+}
