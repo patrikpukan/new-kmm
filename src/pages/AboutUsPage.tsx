@@ -131,7 +131,9 @@ const AboutUsPage = () => {
                   začínal s osmi členy a stejně jako dnes pořádal workshopy s
                   hosty a neformální akce v žižkovských podnicích. V této době
                   nebyli hosté z praxe na škole tak častí, proto byl klub
-                  poměrně unikátní.
+                  poměrně unikátní. Během začátků ještě neexistoval Facebook a
+                  většina lidí měla mobily s tlačítky, hlavním komunikačním
+                  kanálem tak byla nástěnka ve druhém patře staré budovy.
                 </p>
               </div>
               <div>
@@ -154,7 +156,14 @@ const AboutUsPage = () => {
                   Velký růst našeho klubu jsme registrovali v roce 2020. Noví
                   členové nám rozproudili krev a začali jsme více rozšiřovat
                   portfolio akcí a projektů. V rámci rozvoje klubu se zavedla
-                  nová hierarchie pro efektivnější rozdělování úkolů.
+                  nová a účinnější hierarchie pro efektivnější rozdělování
+                  úkolů. Dali jsme si úsilí a vytvořili pevnou strukturu
+                  oddělení, do které spadá Planning, Marketing, Business
+                  Development a Projects. Každému týmu byl přirazený vedoucí,
+                  který začal dohlížet na naplňování klubových cílů. V této fázi
+                  rozvoje se klub zároveň rozhodl navázat externí spolupráce s
+                  partnery z řad firem, které by studentům a klubu přinesly
+                  přidanou hodnotu.
                 </p>
               </div>
             </CardContent>
