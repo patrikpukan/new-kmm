@@ -1,0 +1,76 @@
+{
+  "departments": {
+    "management": {
+      "id": "management",
+      "name": "Management",
+      "members": [
+        {
+          "id": "tomas-kovac",
+          "name": "Tomáš Kováč",
+          "role": "Prezident",
+          "email": "kovt07@vse.cz",
+          "bio": "Jako prezident Klubu mladých manažerů se zaměřuji na rozvoj studentských talentů a propojování akademického prostředí s byznysem. Věřím v praktické vzdělávání a networking jako klíčové prvky profesního růstu.",
+          "linkedIn": "https://www.linkedin.com/in/tomas-kovac",
+          "imageUrl": "/images/members/tomas-kovac.webp"
+        },
+        {
+          "id": "martin-dvorak",
+          "name": "Martin Dvořák",
+          "role": "Head of Partnerships",
+          "email": "dvom02@vse.cz",
+          "bio": "Mou hlavní zodpovědností je rozvoj vztahů s partnerskými společnostmi a hledání nových příležitostí pro spolupráci. Zaměřuji se na vytváření win-win situací pro klub i naše partnery.",
+          "linkedIn": "https://www.linkedin.com/in/martin-dvorak",
+          "imageUrl": "/images/members/martin-dvorak.webp"
+        }
+      ]
+    },
+    "marketing": {
+      "id": "marketing",
+      "name": "Marketing",
+      "members": [
+        {
+          "id": "patrik-pukan",
+          "name": "Patrik Pukán",
+          "role": "Head of Marketing",
+          "email": "pukp00@vse.cz",
+          "bio": "V roli Head of Marketing se starám o komunikaci klubu, správu sociálních sítí a budování značky KMM. Zaměřuji se na vytváření atraktivního obsahu a zvyšování povědomí o našich aktivitách.",
+          "linkedIn": "https://www.linkedin.com/in/patrik-pukan",
+          "imageUrl": "/images/members/patrik-pukan.webp"
+        },
+        {
+          "id": "klara-svobodova",
+          "name": "Klára Svobodová",
+          "role": "Social Media Specialist",
+          "email": "svok05@vse.cz",
+          "bio": "Spravuji sociální sítě klubu a vytvářím engaging content pro naši komunitu. Specializuji se na Instagram a LinkedIn, kde buduji přítomnost KMM.",
+          "linkedIn": "https://www.linkedin.com/in/klara-svobodova",
+          "imageUrl": "/images/members/klara-svobodova.webp"
+        }
+      ]
+    },
+    "eventplanning": {
+      "id": "eventplanning",
+      "name": "Event Planning",
+      "members": [
+        {
+          "id": "samuel-granak",
+          "name": "Samuel Graňák",
+          "role": "Head of Event Planning",
+          "email": "gras03@vse.cz",
+          "bio": "Zodpovídám za plánování a realizaci všech klubových událostí. Mým cílem je vytvářet příležitosti pro networking a vzdělávání prostřednictvím workshopů, přednášek a společenských akcí.",
+          "linkedIn": "https://www.linkedin.com/in/samuel-granak",
+          "imageUrl": "/images/members/samuel-granak.webp"
+        },
+        {
+          "id": "jana-novakova",
+          "name": "Jana Nováková",
+          "role": "Project Manager",
+          "email": "novj01@vse.cz",
+          "bio": "Jako projektová manažerka se podílím na organizaci klíčových událostí klubu. Specializuji se na koordinaci týmů a zajištění hladkého průběhu našich projektů.",
+          "linkedIn": "https://www.linkedin.com/in/jana-novakova",
+          "imageUrl": "/images/members/jana-novakova.webp"
+        }
+      ]
+    }
+  }
+}
