@@ -6,22 +6,22 @@ const AboutUsPage = () => {
       title: "Vedení klubu",
       members: [
         {
-          name: "Tomáš Kováč",
+          name: "Samuel Graňák",
           role: "Prezident",
-          bio: "Cez deň chief executive overthinker, večer partyboy. To znamená, že ak neriešim klub, prácu a školu, riešim random nápad zbúchaný pri raňajkách. A ak nič neriešim, roztáčam to na párty.",
-          image: "/images/members/tomas.webp",
+          bio: "Nájdete ma väčšinou v kníhkupectve, kde rozmýšľam nad novou knihou a rozoberám problémy ľudstva s náhodnými okoloidúcimi",
+          image: "/images/Members/management/SamuelG.jpg",
         },
         {
           name: "Patrik Pukán",
           role: "Head of Marketing",
-          bio: "Študujem IT, no nemusím programovanie, zaujímam sa o urban planning a smart fungovanie miest. Voľnočasovo rád hikujem a pozerám ešporty.",
-          image: "/images/members/patrik.webp",
+          bio: "Večný študent, nestíhač, ale inak celkom chill guy.",
+          image: "/images/Members/management/PatrikP.jpg",
         },
         {
-          name: "Samuel Graňák",
+          name: "Zdenka Havlová",
           role: "Head of Event Planning",
-          bio: "Nájdete ma väčšinou v kníhkupectve, kde rozmýšľam nad novou knihou a rozoberám problémy ľudstva s náhodnými okoloidúcimi.",
-          image: "/images/members/samuel.webp",
+          bio: "Time management je môj najväčší (ne)priateľ. Za to, si rada posedím pri dobrej káve, prečítam knihu alebo vybehnem na túru do Tatier.",
+          image: "/images/Members/management/ZdenkaH.jpg",
         },
       ],
     },
@@ -29,19 +29,39 @@ const AboutUsPage = () => {
       title: "Marketing",
       members: [
         {
-          name: "Martina Sabolová",
-          bio: "Dokážem byť produktívna, hladná a pod tlakom zároveň, ale môj beauty sleep mi neberte. Inak som party shaker, trouble maker a challenge taker.",
-          image: "/images/members/martina.webp",
+          name: "Dávid Čeliš",
+          bio: "Doplníme :)",
+          image: "/images/Members/marketing/DavidC.HEIC",
         },
         {
-          name: "Daniel Maťaš",
-          bio: "Pochádzam z Michaloviec, čo je synonymum od 'prdel sveta'. Milujem vtipne spracované príspevky, seriál The Office a kvalitný segedín.",
-          image: "/images/members/daniel.webp",
+          name: "Eliška Bardynová",
+          bio: "Doplníme :)",
+          image: "/images/Members/marketing/EliskaB.JPG",
+        },
+        {
+          name: "Klára Taterová",
+          bio: "Doplníme :)",
+          image: "/images/Members/marketing/KlaraT.jpg",
+        },
+        {
+          name: "Lucie Benešová",
+          bio: "Doplníme :)",
+          image: "/images/Members/marketing/LucieB.JPG",
+        },
+        {
+          name: "Nikola Vožická",
+          bio: "Doplníme :)",
+          image: "/images/Members/marketing/NikolaV.jpg",
+        },
+        {
+          name: "Šárka Koudelková",
+          bio: "Doplníme :)",
+          image: "/images/Members/marketing/SarkaK.heic",
         },
         {
           name: "Veronika Kyselová",
           bio: "Jsem intolerantní na laktózu, ale k obědu si ten smažák klidně dám. Co to o mně vypovídá? Nebojím se výzev a jejich důsledků.",
-          image: "/images/members/veronika.webp",
+          image: "/images/Members/marketing/VeronikaK.jpg",
         },
       ],
     },
@@ -49,48 +69,72 @@ const AboutUsPage = () => {
       title: "Event Planning",
       members: [
         {
-          name: "Zdenka Havlová",
-          bio: "Time management je môj najväčší (ne)priateľ. Za to, si rada posedím pri dobrej káve, prečítam knihu alebo vybehnem na túru do Tatier.",
-          image: "/images/members/zdenka.webp",
+          name: "Alexandra Šustková",
+          bio: "Doplníme :)",
+          image: "/images/members/event/AlexandraS.HEIC",
+        },
+        {
+          name: "Eduard Jirásko",
+          bio: "Doplníme :)",
+          image: "/images/Members/EduardJ.jpg",
+        },
+        {
+          name: "Jakub Horňák",
+          bio: "Doplníme :)",
+          image: "/images/Members/event/JakubH.jpg",
         },
         {
           name: "Ján Kantorák",
           bio: "Raz si dole, raz si hore – taký je šport. Pochádzam z Lučenca, takže si asi viete predstaviť, kde sa na tejto osi nachádzam ja.",
-          image: "/images/members/jan.webp",
+          image: "/images/Members/event/JanK.jpg",
         },
         {
-          name: "Alexandra Šustková",
-          image: "/images/members/alexandra.webp",
-        },
-      ],
-    },
-    itSupport: {
-      title: "IT podpora",
-      members: [
-        {
-          name: "Matej Centko",
-          bio: "Neviem, ako som sa tu objavil. 🙂",
-          image: "/images/members/matej.webp",
+          name: "Kryštof Kopecký",
+          bio: "Doplníme :)",
+          image: "/images/Members/event/KrystofK.jpeg",
         },
         {
-          name: "Tereza Kötelesová",
-          bio: "Nerada sa ponáhľam, kebyže mám meškať, radšej neprídem vôbec. Mám rada mačky a kvalitný spánok.",
-          image: "/images/members/tereza.webp",
+          name: "Lubomír Mach",
+          bio: "Doplníme :)",
+          image: "/images/Members/event/LubomirM.jpg",
+        },
+        {
+          name: "Michal Procházka",
+          bio: "Doplníme :)",
+          image: "/images/Members/event/MichalP.jpg",
+        },
+
+        {
+          name: "Petr Malík",
+          bio: "Doplníme :)",
+          image: "/images/Members/event/PetrM.jpeg",
+        },
+        {
+          name: "Soňa Tomčalová",
+          bio: "Doplníme :)",
+          image: "/images/Members/event/SonaTomcalova.jpg",
+        },
+        {
+          name: "Tereza Albertová",
+          bio: "Doplníme :)",
+          image: "/images/Members/event/TerezaA.jpg",
         },
       ],
     },
   };
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const renderMemberCard = (member: any) => (
-    <Card key={member.name} className="overflow-hidden">
-      <div className="h-48 overflow-hidden">
+    <Card key={member.name} className="overflow-hidden flex flex-col">
+      <div className="relative pt-[100%]">
+        {" "}
+        {/* Creates a perfect square container */}
         <img
           src={member.image}
           alt={member.name}
-          className="w-full h-full object-cover"
+          className="absolute inset-0 w-full h-full object-cover"
         />
       </div>
-      <CardContent className="p-4">
+      <CardContent className="p-4 flex-1">
         <h3 className="font-semibold text-lg">{member.name}</h3>
         {member.role && (
           <p className="text-gray-600 text-sm mb-2">{member.role}</p>
@@ -100,8 +144,7 @@ const AboutUsPage = () => {
     </Card>
   );
 
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  const renderDepartment = (department: any, data: any) => (
+  const renderDepartment = (department: string, data: any) => (
     <section key={department} className="mb-16">
       <h2 className="text-2xl font-primary text-sky-600 mb-6">{data.title}</h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -112,6 +155,7 @@ const AboutUsPage = () => {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-sky-50 to-sky-100 dark:from-gray-900 dark:to-gray-800 py-8">
+      {" "}
       <div className="max-w-7xl mx-auto px-4">
         {/* About Section */}
         <section className="mb-16">
