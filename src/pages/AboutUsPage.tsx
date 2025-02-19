@@ -14,7 +14,7 @@ const AboutUsPage = () => {
         {
           name: "Patrik Pukán",
           role: "Head of Marketing",
-          bio: "Večný študent, nestíhač, ale inak celkom chill guy.",
+          bio: "Večný študent, občasný nestíhač, ale inak celkom chill guy.",
           image: "/images/Members/management/PatrikP.jpg",
         },
         {
@@ -31,7 +31,7 @@ const AboutUsPage = () => {
         {
           name: "Dávid Čeliš",
           bio: "Doplníme :)",
-          image: "/images/Members/marketing/DavidC.HEIC",
+          image: "/images/Members/marketing/DavidC.webp",
         },
         {
           name: "Eliška Bardynová",
@@ -56,7 +56,7 @@ const AboutUsPage = () => {
         {
           name: "Šárka Koudelková",
           bio: "Doplníme :)",
-          image: "/images/Members/marketing/SarkaK.heic",
+          image: "/images/Members/marketing/SarkaK.webp",
         },
         {
           name: "Veronika Kyselová",
@@ -71,17 +71,17 @@ const AboutUsPage = () => {
         {
           name: "Alexandra Šustková",
           bio: "Doplníme :)",
-          image: "/images/members/event/AlexandraS.HEIC",
+          image: "/images/Members/event/AlexandraS.webp",
         },
         {
           name: "Eduard Jirásko",
           bio: "Doplníme :)",
-          image: "/images/Members/EduardJ.jpg",
+          image: "/images/Members/event/EduardJ.jpg",
         },
         {
           name: "Jakub Horňák",
           bio: "Doplníme :)",
-          image: "/images/Members/event/JakubH.jpg",
+          image: "/images/Members/event/JakubH.jpeg",
         },
         {
           name: "Ján Kantorák",
