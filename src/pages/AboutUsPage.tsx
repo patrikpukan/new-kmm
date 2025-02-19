@@ -144,6 +144,7 @@ const AboutUsPage = () => {
     </Card>
   );
 
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const renderDepartment = (department: string, data: any) => (
     <section key={department} className="mb-16">
       <h2 className="text-2xl font-primary text-sky-600 mb-6">{data.title}</h2>

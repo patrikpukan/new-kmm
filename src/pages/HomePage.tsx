@@ -88,7 +88,7 @@ const HomePage: FC = () => {
           <div className="flex flex-col md:flex-row items-center gap-6">
             <div className="w-full md:w-60 h-48 md:h-60 rounded-lg overflow-hidden">
               <img
-                src="/images/HomePage/tomas.webp"
+                src="/images/Members/management/SamuelG.jpg"
                 alt="Tomáš Kováč"
                 className="w-full h-full object-cover"
               />
@@ -96,15 +96,14 @@ const HomePage: FC = () => {
             <div className="flex-1 flex flex-col justify-center">
               <div className="mb-4 md:mb-6">
                 <p className="text-gray-700 leading-relaxed text-base md:text-lg italic">
-                  ❝ Diplom má každý, ale skutočné vzdelanie získate s 'learning
-                  by doing'. Medzi debatami o ekonómii či manažmente a
-                  pretekaním do knižnice je vždy čas na kávu alebo pivko s
-                  priateľmi! ❞
+                  " Ľudia hovoria, že nemôžem robiť dve veci naraz. Majú pravdu
+                  - ja ich robím aspoň štyri. Stačí odhodlanie, priestor,
+                  podpora a tím šikovných ľudí - to všetko som v KMM našiel."
                 </p>
               </div>
               <div>
                 <p className="text-sky-600 font-primary font-semibold">
-                  Tomáš Kováč
+                  Samuel Graňák
                 </p>
                 <p className="text-gray-500 text-sm">
                   prezident Klubu mladých manažerů

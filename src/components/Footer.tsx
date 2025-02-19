@@ -34,7 +34,7 @@ const Footer: FC = () => {
               <div>
                 <p className="text-gray-600 leading-snug">
                   <strong className="font-semibold text-gray-800">
-                    Tomáš Kováč
+                    Samuel Graňák
                   </strong>
                   <br />
                   Prezident
@@ -43,14 +43,14 @@ const Footer: FC = () => {
                     href="mailto:kovt07@vse.cz"
                     className="text-sky-600 hover:text-sky-700"
                   >
-                    kovt07@vse.cz
+                    gras03@vse.cz
                   </a>
                 </p>
               </div>
               <div>
                 <p className="text-gray-600 leading-snug">
                   <strong className="font-semibold text-gray-800">
-                    Samuel Graňák
+                    Zdenka Havlová
                   </strong>
                   <br />
                   Head of Event Planning
@@ -59,7 +59,7 @@ const Footer: FC = () => {
                     href="mailto:gras03@vse.cz"
                     className="text-sky-600 hover:text-sky-700"
                   >
-                    gras03@vse.cz
+                    havz05@vse.cz
                   </a>
                 </p>
               </div>
