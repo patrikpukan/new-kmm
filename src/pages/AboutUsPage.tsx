@@ -30,12 +30,12 @@ const AboutUsPage = () => {
       members: [
         {
           name: "Dávid Čeliš",
-          bio: "Doplníme :)",
+          bio: "Ajťák ze Sudet s duší introverta, energií časované bomby a dochvilností českých drah. Jestli něco hoří, pravděpodobně to není můj problém…",
           image: "/images/Members/marketing/DavidC.webp",
         },
         {
           name: "Eliška Bardynová",
-          bio: "Doplníme :)",
+          bio: "Nedokážu moc říct ne, takže když mi řekneš skoč z letadla, tak skočim, ale aspoň pak nemám fomo.",
           image: "/images/Members/marketing/EliskaB.JPG",
         },
         {
