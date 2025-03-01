@@ -40,7 +40,7 @@ const AboutUsPage = () => {
         },
         {
           name: "Klára Taterová",
-          bio: "Doplníme :)",
+          bio: "Klidná mysl a kreativní duše, která se nezastaví před žádnou výzvou, ať už jde o nové dobrodružství nebo polemizování o světě.",
           image: "/images/Members/marketing/KlaraT.jpg",
         },
         {
@@ -48,14 +48,10 @@ const AboutUsPage = () => {
           bio: "Doplníme :)",
           image: "/images/Members/marketing/LucieB.JPG",
         },
-        {
-          name: "Nikola Vožická",
-          bio: "Doplníme :)",
-          image: "/images/Members/marketing/NikolaV.jpg",
-        },
+
         {
           name: "Šárka Koudelková",
-          bio: "Doplníme :)",
+          bio: "Miluju chodit do ZOO. Fakt.",
           image: "/images/Members/marketing/SarkaK.webp",
         },
         {
@@ -80,7 +76,7 @@ const AboutUsPage = () => {
         },
         {
           name: "Jakub Horňák",
-          bio: "Doplníme :)",
+          bio: "Môj kompas ukazuje vždy tam, kde je vzrušo – či už na horách, pri športoch alebo na ďalšej ceste do neznáma",
           image: "/images/Members/event/JakubH.jpeg",
         },
         {
@@ -106,7 +102,7 @@ const AboutUsPage = () => {
 
         {
           name: "Petr Malík",
-          bio: "Doplníme :)",
+          bio: "Dvojitý agent - dopoledne člen klubu KMM, odpoledne Ambasador Flex Academy na naší škole. ",
           image: "/images/Members/event/PetrM.jpeg",
         },
         {
@@ -115,9 +111,24 @@ const AboutUsPage = () => {
           image: "/images/Members/event/SonaTomcalova.jpg",
         },
         {
+          name: "Nikola Vožická",
+          bio: "Doplníme :)",
+          image: "/images/Members/event/NikolaV.jpg",
+        },
+        {
           name: "Tereza Albertová",
           bio: "Doplníme :)",
           image: "/images/Members/event/TerezaA.jpg",
+        },
+        {
+          name: "Adiyza Zhahel",
+          bio: "Polyglot mezi ekonomy. Nevyznám se ve fotbalu, ale byla jsem na zápase Ligy mistrů. Neumím plavat, ale půl roku jsem žila u moře ve Španělsku. Asiatka, ale nejím pálivé jídlo.",
+          image: "/images/Members/event/AdiyaZ.jpg",
+        },
+        {
+          name: "Lucie Sečkařová",
+          bio: "Můj život je jako dobrá písnička – trochu improvizace, hodně energie a vždycky místo pro nové zážitky. Když zrovna necestuji nebo nezpívám, najdete mě u dobré knihy nebo ve fitku.",
+          image: "/images/Members/event/LucieS.jpeg",
         },
       ],
     },
