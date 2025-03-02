@@ -45,7 +45,7 @@ const AboutUsPage = () => {
         },
         {
           name: "Lucie Benešová",
-          bio: "Doplníme :)",
+          bio: "Na fotce vypadám vážně, ale ve skutečnosti se pořád směju.✨️ Když zrovna nepeču dortík🎂, jsem pravděpodobně cooked🎀 – a to nejen v kuchyni. 💅🏻",
           image: "/images/Members/marketing/LucieB.JPG",
         },
 
