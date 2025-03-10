@@ -71,7 +71,7 @@ const AboutUsPage = () => {
         },
         {
           name: "Eduard Jirásko",
-          bio: "Doplníme :)",
+          bio: "Ještě jsem se nenaučil jen tak sedět a nic nedělat. To znamená, že furt vymýšlím, co budu dál, a potom občas lituju, kolik jsem si toho zase naplánoval.",
           image: "/images/Members/event/EduardJ.jpg",
         },
         {
@@ -85,9 +85,9 @@ const AboutUsPage = () => {
           image: "/images/Members/event/JanK.jpg",
         },
         {
-          name: "Kryštof Kopecký",
-          bio: "Doplníme :)",
-          image: "/images/Members/event/KrystofK.jpeg",
+          name: "Hoai Nhu Le",
+          bio: "Když mě něco baví, tak v tom opravdu vydržím. Např. doteď hraju Hayday:)",
+          image: "/images/Members/event/HoaiNhuLe.JPG",
         },
         {
           name: "Lubomír Mach",
@@ -117,7 +117,7 @@ const AboutUsPage = () => {
         },
         {
           name: "Tereza Albertová",
-          bio: "Doplníme :)",
+          bio: "Terka cestovatelka",
           image: "/images/Members/event/TerezaA.jpg",
         },
         {
