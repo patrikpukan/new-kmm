@@ -1,4 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import PartnersPage from "./PartnersPage";
 
 const AboutUsPage = () => {
   const departments = {
@@ -51,7 +52,7 @@ const AboutUsPage = () => {
 
         {
           name: "Šárka Koudelková",
-          bio: "Miluju chodit do ZOO. Fakt.",
+          bio: "Miluju kyselé okurky. Fakt.",
           image: "/images/Members/marketing/SarkaK.webp",
         },
         {
@@ -253,6 +254,7 @@ const AboutUsPage = () => {
             </CardContent>
           </Card>
         </section>
+        <PartnersPage />
       </div>
     </div>
   );

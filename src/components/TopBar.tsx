@@ -66,10 +66,10 @@ const TopBar: FC = () => {
               </li>
               <li>
                 <Link
-                  to="/partneri"
+                  to="/events"
                   className="text-sky-600 hover:text-gray-900 px-3 py-2 text-base font-medium hover:scale-105 transition-transform"
                 >
-                  Partneři
+                  Akce
                 </Link>
               </li>
               <li>
@@ -139,11 +139,11 @@ const TopBar: FC = () => {
                 O nás
               </Link>
               <Link
-                to="/partneri"
+                to="/events"
                 className="block text-sky-600 hover:text-gray-900 px-3 py-2 text-base font-medium"
                 onClick={() => setIsMenuOpen(false)}
               >
-                Partneři
+                Akce
               </Link>
               <Link
                 to="/kontakt"

@@ -2,6 +2,7 @@ import { FC } from "react";
 import { Card } from "@/components/ui/card";
 import ScrollableCards from "@/components/ScrollableCards";
 import { useTranslation } from "react-i18next";
+import PartnersPage from "./PartnersPage";
 
 const HomePage: FC = () => {
   const { t } = useTranslation();
@@ -113,6 +114,7 @@ const HomePage: FC = () => {
           </div>
         </Card>
       </div>
+      <PartnersPage />
     </div>
   );
 };

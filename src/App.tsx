@@ -4,7 +4,7 @@ import HomePage from "./pages/HomePage";
 import AboutUsPage from "./pages/AboutUsPage";
 import NotFound from "./pages/NotFound";
 import ContactPage from "./pages/ContactPage";
-import PartnersPage from "./pages/PartnersPage";
+import EventsPage from "./pages/EventsPage";
 import MembersPage from "./pages/MembersPage";
 import TopBar from "./components/TopBar";
 import Footer from "./components/Footer";
@@ -17,7 +17,7 @@ const App: FC = () => {
         <Route path="/" element={<HomePage />} />
         <Route path="onas" element={<AboutUsPage />} />
         <Route path="clenove" element={<MembersPage />} />
-        <Route path="partneri" element={<PartnersPage />} />
+        <Route path="events" element={<EventsPage />} />
         <Route path="kontakt" element={<ContactPage />} />
         <Route path="*" element={<NotFound />} />
       </Routes>

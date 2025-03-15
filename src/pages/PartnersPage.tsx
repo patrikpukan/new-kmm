@@ -5,6 +5,9 @@ const PartnersPage: FC = () => {
   return (
     <div className="min-h-screen bg-gradient-to-b from-sky-50 to-sky-100 dark:from-gray-900 dark:to-gray-800 py-8">
       <div className="max-w-7xl mx-auto px-4 space-y-8">
+        <h1 className="text-3xl font-primary font-semibold text-sky-600 text-center">
+          Naši partneři
+        </h1>
         {/* First Partner Card */}
         <Card className="p-6 shadow-lg hover:shadow-xl transition-shadow">
           <div className="flex flex-col md:flex-row gap-6">
