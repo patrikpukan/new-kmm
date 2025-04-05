@@ -186,6 +186,7 @@ const ImageGallery: FC<{ images: EventImage[] }> = ({ images }) => {
         scrollContainer.removeEventListener("scroll", handleScroll);
       };
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
@@ -330,10 +331,25 @@ const EventsPage: FC = () => {
                       </h3>
                       {event.id === "career-speeddating" ? (
                         <p className="text-gray-700">
-                          🔥 Hledáš ideální start své kariéry? Nebojíš se nových výzev a chceš se setkat s top firmami na trhu? 🔥 <br />
-                          Přijď na náš jedinečný Kariérní Speed-Dating a najdi svůj "match"! 🎯 <br />
-                          Připoj se k nám na akci, která spojuje ambiciózní studenty zajímající se o project management, HR a marketing s předními společnostmi ze svých oblastí. Čeká tě rychlé a efektivní setkání se zástupci firem, kde máš 7 minut na to, abys je zaujal a zjistil, zda jste pro sebe ti praví. <br />
-                          Registrace: <a href="https://forms.gle/XEsTWAR1okuTNNFw8" target="_blank" className="text-blue-500 hover:underline">https://forms.gle/XEsTWAR1okuTNNFw8</a>
+                          🔥 Hledáš ideální start své kariéry? Nebojíš se nových
+                          výzev a chceš se setkat s top firmami na trhu? 🔥{" "}
+                          <br />
+                          Přijď na náš jedinečný Kariérní Speed-Dating a najdi
+                          svůj "match"! 🎯 <br />
+                          Připoj se k nám na akci, která spojuje ambiciózní
+                          studenty zajímající se o project management, HR a
+                          marketing s předními společnostmi ze svých oblastí.
+                          Čeká tě rychlé a efektivní setkání se zástupci firem,
+                          kde máš 7 minut na to, abys je zaujal a zjistil, zda
+                          jste pro sebe ti praví. <br />
+                          Registrace:{" "}
+                          <a
+                            href="https://forms.gle/XEsTWAR1okuTNNFw8"
+                            target="_blank"
+                            className="text-blue-500 hover:underline"
+                          >
+                            https://forms.gle/XEsTWAR1okuTNNFw8
+                          </a>
                         </p>
                       ) : (
                         <p className="text-gray-700">{event.description}</p>
