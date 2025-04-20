@@ -1,6 +1,7 @@
 import { FC, useRef, useState, useEffect } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { ChevronLeft, ChevronRight } from "lucide-react";
+import PartnersCard from "@/components/PartnersCard";
 
 // Define event data structure
 interface EventImage {
@@ -369,6 +370,7 @@ const EventsPage: FC = () => {
             </Card>
           ))}
         </div>
+        <PartnersCard />
       </div>
     </div>
   );

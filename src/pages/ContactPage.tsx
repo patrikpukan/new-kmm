@@ -1,5 +1,6 @@
 import { FC } from "react";
 import { Card } from "@/components/ui/card";
+import PartnersCard from "@/components/PartnersCard";
 
 const ContactPage: FC = () => {
   return (
@@ -35,12 +36,12 @@ const ContactPage: FC = () => {
               {/* President */}
               <div>
                 <h3 className="text-lg font-semibold mb-1">Prezident</h3>
-                <p className="font-primary font-semibold">Tomáš Kováč</p>
+                <p className="font-primary font-semibold">Samuel Graňák</p>
                 <a
-                  href="mailto:kovt07@vse.cz"
+                  href="mailto:gras03@vse.cz"
                   className="text-sky-600 hover:text-sky-700"
                 >
-                  kovt07@vse.cz
+                  gras03@vse.cz{" "}
                 </a>
               </div>
 
@@ -49,12 +50,12 @@ const ContactPage: FC = () => {
                 <h3 className="text-lg font-semibold mb-1">
                   Head of Event Planning
                 </h3>
-                <p className="font-primary font-semibold">Samuel Graňák</p>
+                <p className="font-primary font-semibold">Zdenka Havlová</p>
                 <a
                   href="mailto:gras03@vse.cz"
                   className="text-sky-600 hover:text-sky-700"
                 >
-                  gras03@vse.cz
+                  havz05@vse.cz
                 </a>
               </div>
 
@@ -116,6 +117,7 @@ const ContactPage: FC = () => {
             />
           </Card>
         </div>
+        <PartnersCard />
       </div>
     </div>
   );

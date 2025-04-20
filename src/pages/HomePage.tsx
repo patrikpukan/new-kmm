@@ -2,7 +2,7 @@ import { FC } from "react";
 import { Card } from "@/components/ui/card";
 import ScrollableCards from "@/components/ScrollableCards";
 import { useTranslation } from "react-i18next";
-import PartnersPage from "./PartnersPage";
+//import PartnersPage from "./PartnersPage";
 import PartnersCard from "@/components/PartnersCard";
 
 const HomePage: FC = () => {
