@@ -289,7 +289,7 @@ const EventsPage: FC = () => {
       {/* Hero Section */}
       <div className="relative w-full">
         <img
-          src="/images/DSC4824.jpg"
+          src="/images/RBtitle.jpg"
           alt="Banner"
           className="w-full h-[300px] md:h-[400px] object-cover"
         />

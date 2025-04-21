@@ -16,18 +16,18 @@ const AboutUsPage = () => {
             "https://www.linkedin.com/in/samuel-gra%C5%88%C3%A1k-472179178/",
         },
         {
-          name: "Patrik Pukán",
-          role: "Head of Marketing",
-          bio: "Večný študent, občasný nestíhač, ale inak celkom chill guy.",
-          image: "/images/Members/management/PatrikP.jpg",
-          linkedin: "https://www.linkedin.com/in/patrik-pukan/",
-        },
-        {
           name: "Zdenka Havlová",
           role: "Head of Event Planning",
           bio: "Time management je môj najväčší (ne)priateľ. Za to, si rada posedím pri dobrej káve, prečítam knihu alebo vybehnem na túru do Tatier.",
           image: "/images/Members/management/ZdenkaH.jpg",
           linkedin: "https://www.linkedin.com/in/zdenka-havlova/",
+        },
+        {
+          name: "Patrik Pukán",
+          role: "Head of Marketing",
+          bio: "Večný študent, občasný nestíhač, ale inak celkom chill guy.",
+          image: "/images/Members/management/PatrikP.jpg",
+          linkedin: "https://www.linkedin.com/in/patrik-pukan/",
         },
       ],
     },
@@ -37,7 +37,7 @@ const AboutUsPage = () => {
         {
           name: "Dávid Čeliš",
           bio: "Ajťák ze Sudet s duší introverta, energií časované bomby a dochvilností českých drah. Jestli něco hoří, pravděpodobně to není můj problém…",
-          image: "/images/Members/marketing/DavidC.webp",
+          image: "/images/Members/marketing/DavidC.jpg",
           linkedin: "https://www.linkedin.com/in/davceli/",
         },
         {
@@ -65,7 +65,7 @@ const AboutUsPage = () => {
         {
           name: "Šárka Koudelková",
           bio: "Miluju kyselé okurky. Fakt.",
-          image: "/images/Members/marketing/SarkaK.webp",
+          image: "/images/Members/marketing/SarkaK.jpg",
           linkedin:
             "https://www.linkedin.com/in/%C5%A1%C3%A1rka-koudelkov%C3%A1-8a992a260/",
         },
@@ -75,6 +75,13 @@ const AboutUsPage = () => {
           image: "/images/Members/marketing/VeronikaK.jpg",
           linkedin:
             "https://www.linkedin.com/in/veronika-kyselov%C3%A1-851708228/",
+        },
+        {
+          name: "Eliška Pospíšilová",
+          bio: "Temporary Koň",
+          image: "/images/Members/marketing/EliskaP.avif",
+          linkedin:
+            "https://www.linkedin.com/in/eli%C5%A1ka-posp%C3%AD%C5%A1ilov%C3%A1-5881a6334/",
         },
       ],
     },
@@ -97,7 +104,7 @@ const AboutUsPage = () => {
         {
           name: "Jakub Horňák",
           bio: "Môj kompas ukazuje vždy tam, kde je vzrušo – či už na horách, pri športoch alebo na ďalšej ceste do neznáma",
-          image: "/images/Members/event/JakubH.jpeg",
+          image: "/images/Members/event/JakubH.jpg",
           linkedin: "https://www.linkedin.com/in/jakub-hor%C5%88%C3%A1k/",
         },
         {
@@ -109,7 +116,7 @@ const AboutUsPage = () => {
         {
           name: "Hoai Nhu Le",
           bio: "Když mě něco baví, tak v tom opravdu vydržím. Např. doteď hraju Hayday:)",
-          image: "/images/Members/event/HoaiNhuLe.JPG",
+          image: "/images/Members/event/Hoai.jpg",
           linkedin: "https://www.linkedin.com/in/hoainhule/",
         },
         {
