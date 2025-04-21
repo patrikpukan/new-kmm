@@ -7,6 +7,7 @@ import fbIcon from "../assets/icons/2021_Facebook_icon.svg.webp";
 import igIcon from "../assets/icons/Instagram_logo_2016.svg.webp";
 import liIcon from "../assets/icons/LinkedIn_icon.svg.png";
 import thrIcon from "../assets/icons/Threads_(app)_logo.svg.png";
+import linkTreeIcon from "../assets/icons/linktree-logo-icon.svg";
 
 const TopBar: FC = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -117,6 +118,14 @@ const TopBar: FC = () => {
             >
               <img src={liIcon} alt="LinkedIn" className="h-6 w-6" />
             </a>
+            <a
+              href="https://linktr.ee/kmm_vse"
+              className="text-gray-700 hover:text-gray-900"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img src={linkTreeIcon} alt="LinkTree" className="h-6 w-6" />
+            </a>
           </div>
         </div>
 
@@ -185,6 +194,14 @@ const TopBar: FC = () => {
                   rel="noopener noreferrer"
                 >
                   <img src={liIcon} alt="LinkedIn" className="h-6 w-6" />
+                </a>
+                <a
+                  href="https://linktr.ee/kmm_vse"
+                  className="text-gray-700 hover:text-gray-900"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src={linkTreeIcon} alt="LinkTree" className="h-6 w-6" />
                 </a>
               </div>
             </div>

@@ -267,12 +267,12 @@ const AboutUsPage = () => {
                   portfolio akcí a projektů. V rámci rozvoje klubu se zavedla
                   nová a účinnější hierarchie pro efektivnější rozdělování
                   úkolů. Dali jsme si úsilí a vytvořili pevnou strukturu
-                  oddělení, do které spadá Planning, Marketing, Business
-                  Development a Projects. Každému týmu byl přirazený vedoucí,
-                  který začal dohlížet na naplňování klubových cílů. V této fázi
-                  rozvoje se klub zároveň rozhodl navázat externí spolupráce s
-                  partnery z řad firem, které by studentům a klubu přinesly
-                  přidanou hodnotu.
+                  oddělení, do které spadá Event Planning, Marketing a Business
+                  Development. Každému týmu byl přirazený vedoucí, který začal
+                  dohlížet na naplňování klubových cílů. V této fázi rozvoje se
+                  klub zároveň rozhodl navázat externí spolupráce s partnery z
+                  řad firem, které by studentům a klubu přinesly přidanou
+                  hodnotu.
                 </p>
               </div>
             </CardContent>

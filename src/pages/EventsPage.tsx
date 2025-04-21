@@ -29,14 +29,31 @@ interface Event {
 const events: Event[] = [
   {
     id: "career-speeddating",
-    title: "Kariérní Speeddating",
+    title: "Kariérní Speed-Dating",
     description: `🔥 Hledáš ideální start své kariéry? Nebojíš se nových výzev a chceš se setkat s top firmami na trhu? 🔥 
 Přijď na náš jedinečný Kariérní Speed-Dating a najdi svůj "match"! 🎯 
-Připoj se k nám na akci, která spojuje ambiciózní studenty zajímající se o project management, HR a marketing s předními společnostmi ze svých oblastí. Čeká tě rychlé a efektivní setkání se zástupci firem, kde máš 7 minut na to, abys je zaujal a zjistil, zda jste pro sebe ti praví. Registrace: <a href="https://forms.gle/XEsTWAR1okuTNNFw8" target="_blank" className="text-blue-500 hover:underline">https://forms.gle/XEsTWAR1okuTNNFw8</a>`,
+Připoj se k nám na akci, která spojuje ambiciózní studenty zajímající se o project management, HR a marketing s předními společnostmi ze svých oblastí. Čeká tě rychlé a efektivní setkání se zástupci firem, kde máš 7 minut na to, abys je zaujal a zjistil, zda jste pro sebe ti praví.`,
     images: [
-      { id: 1, src: "/images/HomePage/1.webp", alt: "Career Speeddating 1" },
-      { id: 2, src: "/images/HomePage/2.webp", alt: "Career Speeddating 2" },
-      { id: 3, src: "/images/HomePage/3.webp", alt: "Career Speeddating 3" },
+      {
+        id: 1,
+        src: "/images/Events/speedDating1.JPG",
+        alt: "Career Speeddating 1",
+      },
+      {
+        id: 2,
+        src: "/images/Events/speedDating2.JPG",
+        alt: "Career Speeddating 2",
+      },
+      {
+        id: 3,
+        src: "/images/Events/speedDating3.jpg",
+        alt: "Career Speeddating 3",
+      },
+      {
+        id: 4,
+        src: "/images/Events/speedDating4.webp",
+        alt: "Career Speeddating 4",
+      },
     ],
     dates: [
       {
@@ -88,9 +105,9 @@ Připoj se k nám na akci, která spojuje ambiciózní studenty zajímající se
     title: "Přednášky",
     description: `"Rozšiřte své znalosti pomocí naší série přednášek, na kterých se představí odborníci z oboru. Tyto sezení poskytují hluboké ponory do současných trendů, inovativních nápadů a praktických poznatků v různých oblastech podnikání a managementu.",`,
     images: [
-      { id: 1, src: "/images/HomePage/2.webp", alt: "Lecture 1" },
-      { id: 2, src: "/images/HomePage/3.webp", alt: "Lecture 2" },
-      { id: 3, src: "/images/HomePage/1.webp", alt: "Lecture 3" },
+      { id: 1, src: "/images/Events/prednasky1.webp", alt: "Lecture 1" },
+      { id: 2, src: "/images/Events/prednasky2.webp", alt: "Lecture 2" },
+      { id: 3, src: "/images/Events/prednasky3.jpg", alt: "Lecture 3" },
     ],
     dates: [
       {
