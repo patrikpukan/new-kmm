@@ -45,7 +45,7 @@ const HomePage: FC = () => {
             </div>
             <div className="w-full md:w-60 h-48 md:h-60 rounded-lg overflow-hidden">
               <img
-                src="/images/HomePage/4.webp"
+                src="/images/HomePage/MembersPhoto.jpg"
                 alt="KMM Team"
                 className="w-full h-full object-cover"
               />

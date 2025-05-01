@@ -64,7 +64,7 @@ const AboutUsPage = () => {
 
         {
           name: "Šárka Koudelková",
-          bio: "Miluju kyselé okurky. Fakt.",
+          bio: "Můj největší strach je, že mi někdo vymaže Google kalendář.",
           image: "/images/Members/marketing/SarkaK.jpg",
           linkedin:
             "https://www.linkedin.com/in/%C5%A1%C3%A1rka-koudelkov%C3%A1-8a992a260/",
@@ -79,7 +79,7 @@ const AboutUsPage = () => {
         {
           name: "Eliška Pospíšilová",
           bio: "Temporary Koň",
-          image: "/images/Members/marketing/EliskaP.avif",
+          image: "/images/Members/marketing/EliskaP.jpg",
           linkedin:
             "https://www.linkedin.com/in/eli%C5%A1ka-posp%C3%AD%C5%A1ilov%C3%A1-5881a6334/",
         },
