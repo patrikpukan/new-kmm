@@ -54,6 +54,16 @@ Připoj se k nám na akci, která spojuje ambiciózní studenty zajímající se
         src: "/images/Events/speedDating4.webp",
         alt: "Career Speeddating 4",
       },
+      {
+        id: 5,
+        src: "/images/Events/SpeedDating5.JPG",
+        alt: "Career Speeddating 4",
+      },
+      {
+        id: 6,
+        src: "/images/Events/SpeedDating6.JPG",
+        alt: "Career Speeddating 4",
+      },
     ],
     dates: [
       {
@@ -75,9 +85,23 @@ Připoj se k nám na akci, která spojuje ambiciózní studenty zajímající se
     title: "Neformální akce",
     description: `"Připojte se k nám a zažijte neformální networking v uvolněné atmosféře. Naše neformální akce jsou ideální pro navazování nových přátel, sdílení zkušeností a budování spojení v rámci univerzitní komunity v zábavném a beztlakém prostředí.",`,
     images: [
-      { id: 1, src: "/images/HomePage/4.webp", alt: "Informal Event 1" },
-      { id: 2, src: "/images/HomePage/5.jpeg", alt: "Informal Event 2" },
-      { id: 3, src: "/images/HomePage/6.jpg", alt: "Informal Event 3" },
+      { id: 1, src: "/images/Events/Informal1.jpeg", alt: "Informal Event 1" },
+      { id: 2, src: "/images/Events/Informal2.jpg", alt: "Informal Event 2" },
+      {
+        id: 3,
+        src: "/images/Events/Informal3.jpg",
+        alt: "Informal Event 3",
+      },
+      {
+        id: 4,
+        src: "/images/Events/Informal4.jpg",
+        alt: "Informal Event 3",
+      },
+      {
+        id: 5,
+        src: "/images/Events/Informal5.jpg",
+        alt: "Informal Event 3",
+      },
     ],
     dates: [
       {
@@ -108,6 +132,11 @@ Připoj se k nám na akci, která spojuje ambiciózní studenty zajímající se
       { id: 1, src: "/images/Events/prednasky1.webp", alt: "Lecture 1" },
       { id: 2, src: "/images/Events/prednasky2.webp", alt: "Lecture 2" },
       { id: 3, src: "/images/Events/prednasky3.jpg", alt: "Lecture 3" },
+      {
+        id: 4,
+        src: "/images/Events/Prednasky4.jpg",
+        alt: "Lecture 4",
+      },
     ],
     dates: [
       {
@@ -138,6 +167,8 @@ Připoj se k nám na akci, která spojuje ambiciózní studenty zajímající se
       { id: 1, src: "/images/HomePage/6.jpg", alt: "Workshop 1" },
       { id: 2, src: "/images/HomePage/5.jpeg", alt: "Workshop 2" },
       { id: 3, src: "/images/HomePage/4.webp", alt: "Workshop 3" },
+      { id: 3, src: "/images/Events/Workshopy1.jpg", alt: "Workshop 4" },
+      { id: 3, src: "/images/Events/Workshopy2.jpg", alt: "Workshop 5" },
     ],
     dates: [
       {

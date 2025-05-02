@@ -140,7 +140,7 @@ const AboutUsPage = () => {
         },
         {
           name: "Soňa Tomčalová",
-          bio: "Doplníme :)",
+          bio: "Život je jako dobrá káva, někdy tě nakopne, jindy se z toho prostě posreš.",
           image: "/images/Members/event/SonaTomcalova.jpg",
           linkedin: "https://www.linkedin.com/in/so%C5%88atom%C4%8Dalov%C3%A1/",
         },
