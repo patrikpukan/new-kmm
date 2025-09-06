@@ -35,22 +35,34 @@ const ContactPage: FC = () => {
             <div className="space-y-8">
               {/* President */}
               <div>
-                <h3 className="text-lg font-semibold mb-1">Prezident</h3>
+                <h3 className="text-lg font-semibold mb-1">Prezidentka</h3>
+                <p className="font-primary font-semibold">Soňa Tomčalová</p>
+                <a
+                  href="mailto:sont07@vse.cz"
+                  className="text-sky-600 hover:text-sky-700"
+                >
+                  sonat07@vse.cz{" "}
+                </a>
+              </div>
+              {/* BD */}
+              <div>
+                <h3 className="text-lg font-semibold mb-1">
+                  Head of Business Development
+                </h3>
                 <p className="font-primary font-semibold">Samuel Graňák</p>
                 <a
                   href="mailto:gras03@vse.cz"
                   className="text-sky-600 hover:text-sky-700"
                 >
-                  gras03@vse.cz{" "}
+                  gras03@vse.cz
                 </a>
               </div>
-
               {/* Event Planning */}
               <div>
                 <h3 className="text-lg font-semibold mb-1">
                   Head of Event Planning
                 </h3>
-                <p className="font-primary font-semibold">Zdenka Havlová</p>
+                <p className="font-primary font-semibold">Michal Procházka</p>
                 <a
                   href="mailto:gras03@vse.cz"
                   className="text-sky-600 hover:text-sky-700"
@@ -64,7 +76,7 @@ const ContactPage: FC = () => {
                 <h3 className="text-lg font-semibold mb-1">
                   Head of Marketing
                 </h3>
-                <p className="font-primary font-semibold">Patrik Pukán</p>
+                <p className="font-primary font-semibold">Šárka Koudelková</p>
                 <a
                   href="mailto:pukp00@vse.cz"
                   className="text-sky-600 hover:text-sky-700"

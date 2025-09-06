@@ -31,17 +31,32 @@ const Footer: FC = () => {
             <h3 className="font-primary font-semibold text-sky-600 text-center">
               Vedení klubu
             </h3>
-            <div className="grid grid-cols-1 sm:grid-cols-3 gap-2">
+            <div className="grid grid-cols-1 sm:grid-cols-4 gap-5">
+              <div>
+                <p className="text-gray-600 leading-snug">
+                  <strong className="font-semibold text-gray-800">
+                    Soňa Tomčalová
+                  </strong>
+                  <br />
+                  Prezidentka
+                  <br />
+                  <a
+                    href="mailto:kovt07@vse.cz"
+                    className="text-sky-600 hover:text-sky-700"
+                  >
+                    sonat07@vse.cz
+                  </a>
+                </p>
+              </div>
               <div>
                 <p className="text-gray-600 leading-snug">
                   <strong className="font-semibold text-gray-800">
                     Samuel Graňák
                   </strong>
                   <br />
-                  Prezident
-                  <br />
+                  Head of Business Development <br />
                   <a
-                    href="mailto:kovt07@vse.cz"
+                    href="mailto:gras03@vse.cz"
                     className="text-sky-600 hover:text-sky-700"
                   >
                     gras03@vse.cz
@@ -51,7 +66,7 @@ const Footer: FC = () => {
               <div>
                 <p className="text-gray-600 leading-snug">
                   <strong className="font-semibold text-gray-800">
-                    Zdenka Havlová
+                    Michal Procházka
                   </strong>
                   <br />
                   Head of Event Planning
@@ -67,7 +82,7 @@ const Footer: FC = () => {
               <div>
                 <p className="text-gray-600 leading-snug">
                   <strong className="font-semibold text-gray-800">
-                    Patrik Pukán
+                    Šárka Koudelková
                   </strong>
                   <br />
                   Head of Marketing

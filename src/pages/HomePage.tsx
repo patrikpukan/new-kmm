@@ -90,25 +90,24 @@ const HomePage: FC = () => {
           <div className="flex flex-col md:flex-row items-center gap-6">
             <div className="w-full md:w-60 h-48 md:h-60 rounded-lg overflow-hidden">
               <img
-                src="/images/Members/management/SamuelG.jpg"
-                alt="Tomáš Kováč"
+                src="/images/Members/management/SonaTomcalova.jpg"
+                alt="Soňa Tomčalová"
                 className="w-full h-full object-cover"
               />
             </div>
             <div className="flex-1 flex flex-col justify-center">
               <div className="mb-4 md:mb-6">
                 <p className="text-gray-700 leading-relaxed text-base md:text-lg italic">
-                  " Ľudia hovoria, že nemôžem robiť dve veci naraz. Majú pravdu
-                  - ja ich robím aspoň štyri. Stačí odhodlanie, priestor,
-                  podpora a tím šikovných ľudí - to všetko som v KMM našiel."
+                  "Život je jako dobrá káva, někdy tě nakopne, jindy se z toho
+                  prostě posreš."
                 </p>
               </div>
               <div>
                 <p className="text-sky-600 font-primary font-semibold">
-                  Samuel Graňák
+                  Soňa Tomčalová{" "}
                 </p>
                 <p className="text-gray-500 text-sm">
-                  prezident Klubu mladých manažerů
+                  prezidentka Klubu mladých manažerů
                 </p>
               </div>
             </div>
