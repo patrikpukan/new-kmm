@@ -8,26 +8,35 @@ const AboutUsPage = () => {
       title: "Vedení klubu",
       members: [
         {
+          name: "Soňa Tomčalová",
+          role: "Prezidentka",
+          bio: "Život je jako dobrá káva, někdy tě nakopne, jindy se z toho prostě posreš.",
+          image: "/images/Members/management/SonaTomcalova.jpg",
+          linkedin: "https://www.linkedin.com/in/so%C5%88atom%C4%8Dalov%C3%A1/",
+        },
+        {
           name: "Samuel Graňák",
-          role: "Prezident",
+          role: "Head of Business Development",
           bio: "Nájdete ma väčšinou v kníhkupectve, kde rozmýšľam nad novou knihou a rozoberám problémy ľudstva s náhodnými okoloidúcimi",
           image: "/images/Members/management/SamuelG.jpg",
           linkedin:
             "https://www.linkedin.com/in/samuel-gra%C5%88%C3%A1k-472179178/",
         },
+
         {
-          name: "Zdenka Havlová",
+          name: "Michal Procházka",
           role: "Head of Event Planning",
-          bio: "Time management je môj najväčší (ne)priateľ. Za to, si rada posedím pri dobrej káve, prečítam knihu alebo vybehnem na túru do Tatier.",
-          image: "/images/Members/management/ZdenkaH.jpg",
-          linkedin: "https://www.linkedin.com/in/zdenka-havlova/",
+          bio: "Doplníme :)",
+          image: "/images/Members/management/MichalP.jpg",
+          linkedin: "https://www.linkedin.com/in/michalproch%C3%A1zka2002/",
         },
         {
-          name: "Patrik Pukán",
+          name: "Šárka Koudelková",
           role: "Head of Marketing",
-          bio: "Večný študent, občasný nestíhač, ale inak celkom chill guy.",
-          image: "/images/Members/management/PatrikP.jpg",
-          linkedin: "https://www.linkedin.com/in/patrik-pukan/",
+          bio: "Můj největší strach je, že mi někdo vymaže Google kalendář.",
+          image: "/images/Members/management/SarkaK.jpg",
+          linkedin:
+            "https://www.linkedin.com/in/%C5%A1%C3%A1rka-koudelkov%C3%A1-8a992a260/",
         },
       ],
     },
@@ -35,10 +44,10 @@ const AboutUsPage = () => {
       title: "Marketing",
       members: [
         {
-          name: "Dávid Čeliš",
-          bio: "Ajťák ze Sudet s duší introverta, energií časované bomby a dochvilností českých drah. Jestli něco hoří, pravděpodobně to není můj problém…",
-          image: "/images/Members/marketing/DavidC.jpg",
-          linkedin: "https://www.linkedin.com/in/davceli/",
+          name: "Patrik Pukán",
+          bio: "Večný študent, občasný nestíhač, ale inak celkom chill guy.",
+          image: "/images/Members/marketing/PatrikP.jpg",
+          linkedin: "https://www.linkedin.com/in/patrik-pukan/",
         },
         {
           name: "Eliška Bardynová",
@@ -54,21 +63,7 @@ const AboutUsPage = () => {
           linkedin:
             "https://www.linkedin.com/in/kl%C3%A1ra-taterov%C3%A1-347b302b2/",
         },
-        {
-          name: "Lucie Benešová",
-          bio: "Na fotce vypadám vážně, ale ve skutečnosti se pořád směju.✨️ Když zrovna nepeču dortík🎂, jsem pravděpodobně cooked🎀 – a to nejen v kuchyni. 💅🏻",
-          image: "/images/Members/marketing/LucieB.JPG",
-          linkedin:
-            "https://www.linkedin.com/in/lucie-bene%C5%A1ov%C3%A1-5a9554274/",
-        },
 
-        {
-          name: "Šárka Koudelková",
-          bio: "Můj největší strach je, že mi někdo vymaže Google kalendář.",
-          image: "/images/Members/marketing/SarkaK.jpg",
-          linkedin:
-            "https://www.linkedin.com/in/%C5%A1%C3%A1rka-koudelkov%C3%A1-8a992a260/",
-        },
         {
           name: "Veronika Kyselová",
           bio: "Jsem intolerantní na laktózu, ale k obědu si ten smažák klidně dám. Co to o mně vypovídá? Nebojím se výzev a jejich důsledků.",
@@ -125,25 +120,7 @@ const AboutUsPage = () => {
           image: "/images/Members/event/LubomirM.jpg",
           linkedin: "https://www.linkedin.com/in/lubom%C3%ADr-mach-331909275/",
         },
-        {
-          name: "Michal Procházka",
-          bio: "Doplníme :)",
-          image: "/images/Members/event/MichalP.jpg",
-          linkedin: "https://www.linkedin.com/in/michalproch%C3%A1zka2002/",
-        },
 
-        {
-          name: "Petr Malík",
-          bio: "Dvojitý agent - dopoledne člen klubu KMM, odpoledne Ambasador Flex Academy na naší škole. ",
-          image: "/images/Members/event/PetrM.jpeg",
-          linkedin: "https://www.linkedin.com/in/petr-mal%C3%ADk-5b35b9173/",
-        },
-        {
-          name: "Soňa Tomčalová",
-          bio: "Život je jako dobrá káva, někdy tě nakopne, jindy se z toho prostě posreš.",
-          image: "/images/Members/event/SonaTomcalova.jpg",
-          linkedin: "https://www.linkedin.com/in/so%C5%88atom%C4%8Dalov%C3%A1/",
-        },
         {
           name: "Nikola Vožická",
           bio: "Doplníme :)",
@@ -151,12 +128,7 @@ const AboutUsPage = () => {
           linkedin:
             "https://www.linkedin.com/in/nikola-vo%C5%BEick%C3%A1-56b455256/",
         },
-        {
-          name: "Tereza Albertová",
-          bio: "Terka cestovatelka",
-          image: "/images/Members/event/TerezaA.jpg",
-          linkedin: "https://www.linkedin.com/in/tereza-albert-675316249/",
-        },
+
         {
           name: "Adiyza Zhahel",
           bio: "Polyglot mezi ekonomy. Nevyznám se ve fotbalu, ale byla jsem na zápase Ligy mistrů. Neumím plavat, ale půl roku jsem žila u moře ve Španělsku. Asiatka, ale nejím pálivé jídlo.",
@@ -170,6 +142,18 @@ const AboutUsPage = () => {
           image: "/images/Members/event/LucieS.jpeg",
           linkedin:
             "https://www.linkedin.com/in/lucie-se%C4%8Dka%C5%99ov%C3%A1-914a16352/",
+        },
+      ],
+    },
+    businessDevelopment: {
+      title: "Business Development",
+      members: [
+        {
+          name: "Lucie Benešová",
+          bio: "Na fotce vypadám vážně, ale ve skutečnosti se pořád směju.✨️ Když zrovna nepeču dortík🎂, jsem pravděpodobně cooked🎀 – a to nejen v kuchyni. 💅🏻",
+          image: "/images/Members/bd/LucieB.JPG",
+          linkedin:
+            "https://www.linkedin.com/in/lucie-bene%C5%A1ov%C3%A1-5a9554274/",
         },
       ],
     },
@@ -212,7 +196,7 @@ const AboutUsPage = () => {
   const renderDepartment = (department: string, data: any) => (
     <section key={department} className="mb-16">
       <h2 className="text-2xl font-primary text-sky-600 mb-6">{data.title}</h2>
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
         {data.members.map(renderMemberCard)}
       </div>
     </section>
