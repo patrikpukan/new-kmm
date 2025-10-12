@@ -65,13 +65,6 @@ const AboutUsPage = () => {
         },
 
         {
-          name: "Veronika Kyselová",
-          bio: "Jsem intolerantní na laktózu, ale k obědu si ten smažák klidně dám. Co to o mně vypovídá? Nebojím se výzev a jejich důsledků.",
-          image: "/images/Members/marketing/VeronikaK.jpg",
-          linkedin:
-            "https://www.linkedin.com/in/veronika-kyselov%C3%A1-851708228/",
-        },
-        {
           name: "Eliška Pospíšilová",
           bio: "Temporary Koň",
           image: "/images/Members/marketing/EliskaP.jpg",
@@ -108,12 +101,7 @@ const AboutUsPage = () => {
           image: "/images/Members/event/JanK.jpg",
           linkedin: "https://www.linkedin.com/in/jan-kantorak-prague/",
         },
-        {
-          name: "Hoai Nhu Le",
-          bio: "Když mě něco baví, tak v tom opravdu vydržím. Např. doteď hraju Hayday:)",
-          image: "/images/Members/event/Hoai.jpg",
-          linkedin: "https://www.linkedin.com/in/hoainhule/",
-        },
+
         {
           name: "Lubomír Mach",
           bio: "Doplníme :)",
@@ -121,21 +109,6 @@ const AboutUsPage = () => {
           linkedin: "https://www.linkedin.com/in/lubom%C3%ADr-mach-331909275/",
         },
 
-        {
-          name: "Nikola Vožická",
-          bio: "Doplníme :)",
-          image: "/images/Members/event/NikolaV.jpg",
-          linkedin:
-            "https://www.linkedin.com/in/nikola-vo%C5%BEick%C3%A1-56b455256/",
-        },
-
-        {
-          name: "Adiyza Zhahel",
-          bio: "Polyglot mezi ekonomy. Nevyznám se ve fotbalu, ale byla jsem na zápase Ligy mistrů. Neumím plavat, ale půl roku jsem žila u moře ve Španělsku. Asiatka, ale nejím pálivé jídlo.",
-          image: "/images/Members/event/AdiyaZ.jpg",
-          linkedin:
-            "https://www.linkedin.com/in/lucie-se%C4%8Dka%C5%99ov%C3%A1-914a16352/",
-        },
         {
           name: "Lucie Sečkařová",
           bio: "Můj život je jako dobrá písnička – trochu improvizace, hodně energie a vždycky místo pro nové zážitky. Když zrovna necestuji nebo nezpívám, najdete mě u dobré knihy nebo ve fitku.",

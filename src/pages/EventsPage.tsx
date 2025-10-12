@@ -68,8 +68,8 @@ Připoj se k nám na akci, která spojuje ambiciózní studenty zajímající se
     dates: [
       {
         id: 1,
-        date: "2025-04-03",
-        title: "Kariérní Speeddating 2025",
+        date: "2026-04-04",
+        title: "Kariérní Speeddating 2026",
         location: "VŠE, Quattro Modulare",
       },
       // {
@@ -83,7 +83,7 @@ Připoj se k nám na akci, která spojuje ambiciózní studenty zajímající se
   {
     id: "informal-events",
     title: "Neformální akce",
-    description: `"Připojte se k nám a zažijte neformální networking v uvolněné atmosféře. Naše neformální akce jsou ideální pro navazování nových přátel, sdílení zkušeností a budování spojení v rámci univerzitní komunity v zábavném a beztlakém prostředí.",`,
+    description: `Připojte se k nám a zažijte neformální networking v uvolněné atmosféře. Naše neformální akce jsou ideální pro navazování nových přátel, sdílení zkušeností a budování spojení v rámci univerzitní komunity v zábavném a beztlakém prostředí.`,
     images: [
       { id: 1, src: "/images/Events/Informal1.jpeg", alt: "Informal Event 1" },
       { id: 2, src: "/images/Events/Informal2.jpg", alt: "Informal Event 2" },
@@ -106,13 +106,13 @@ Připoj se k nám na akci, která spojuje ambiciózní studenty zajímající se
     dates: [
       {
         id: 1,
-        date: "2025-04-25",
-        title: "TBD",
-        location: "TBD",
+        date: "2025-10-23",
+        title: "Karaoke Night",
+        location: "The Quays Bar",
       },
       {
         id: 2,
-        date: "2025-05-20",
+        date: "2025-11-20",
         title: "TBD",
         location: "TBD",
       },
@@ -127,7 +127,7 @@ Připoj se k nám na akci, která spojuje ambiciózní studenty zajímající se
   {
     id: "lectures",
     title: "Přednášky",
-    description: `"Rozšiřte své znalosti pomocí naší série přednášek, na kterých se představí odborníci z oboru. Tyto sezení poskytují hluboké ponory do současných trendů, inovativních nápadů a praktických poznatků v různých oblastech podnikání a managementu.",`,
+    description: `Rozšiřte své znalosti pomocí naší série přednášek, na kterých se představí odborníci z oboru. Tyto sezení poskytují hluboké ponory do současných trendů, inovativních nápadů a praktických poznatků v různých oblastech podnikání a managementu.`,
     images: [
       { id: 1, src: "/images/Events/prednasky1.webp", alt: "Lecture 1" },
       { id: 2, src: "/images/Events/prednasky2.webp", alt: "Lecture 2" },
@@ -162,7 +162,7 @@ Připoj se k nám na akci, která spojuje ambiciózní studenty zajímající se
   {
     id: "workshops",
     title: "Workshopy",
-    description: `"Rozvíjejte praktické dovednosti prostřednictvím našich praktických workshopů. Tato interaktivní setkání vedená zkušenými profesionály se zaměřují na budování konkrétních kompetencí, které rozšíří vaši profesionální sadu nástrojů a poskytnou vám konkurenční výhodu ve vaší kariéře.",`,
+    description: `Rozvíjejte praktické dovednosti prostřednictvím našich praktických workshopů. Tato interaktivní setkání vedená zkušenými profesionály se zaměřují na budování konkrétních kompetencí, které rozšíří vaši profesionální sadu nástrojů a poskytnou vám konkurenční výhodu ve vaší kariéře.,`,
     images: [
       { id: 1, src: "/images/HomePage/6.jpg", alt: "Workshop 1" },
       { id: 2, src: "/images/HomePage/5.jpeg", alt: "Workshop 2" },
@@ -173,16 +173,17 @@ Připoj se k nám na akci, která spojuje ambiciózní studenty zajímající se
     dates: [
       {
         id: 1,
-        date: "2025-03-19",
-        title: "CV Workshop",
-        location: "VŠE",
+        date: "2025-10-13",
+        title: "Excelovani s EY",
+        location: "EY",
       },
-      // {
-      //   id: 2,
-      //   date: "2025-04-22",
-      //   title: "Excel for Business Analytics",
-      //   location: "VŠE, NB 472",
-      // },
+      {
+        id: 2,
+        date: "2025-10-15",
+        title: "EMCO Exkurze",
+        location: "EMCO",
+      },
+
       // {
       //   id: 3,
       //   date: "2025-10-15",
@@ -391,14 +392,7 @@ const EventsPage: FC = () => {
                           Čeká tě rychlé a efektivní setkání se zástupci firem,
                           kde máš 7 minut na to, abys je zaujal a zjistil, zda
                           jste pro sebe ti praví. <br />
-                          Registrace:{" "}
-                          <a
-                            href="https://forms.gle/XEsTWAR1okuTNNFw8"
-                            target="_blank"
-                            className="text-blue-500 hover:underline"
-                          >
-                            https://forms.gle/XEsTWAR1okuTNNFw8
-                          </a>
+                          Registrace: ještě nezačala{" "}
                         </p>
                       ) : (
                         <p className="text-gray-700">{event.description}</p>

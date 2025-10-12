@@ -41,7 +41,7 @@ const ContactPage: FC = () => {
                   href="mailto:sont07@vse.cz"
                   className="text-sky-600 hover:text-sky-700"
                 >
-                  sonat07@vse.cz{" "}
+                  toms07@vse.cz{" "}
                 </a>
               </div>
               {/* BD */}
@@ -67,7 +67,7 @@ const ContactPage: FC = () => {
                   href="mailto:gras03@vse.cz"
                   className="text-sky-600 hover:text-sky-700"
                 >
-                  havz05@vse.cz
+                  prom30@vse.cz
                 </a>
               </div>
 
@@ -81,7 +81,7 @@ const ContactPage: FC = () => {
                   href="mailto:pukp00@vse.cz"
                   className="text-sky-600 hover:text-sky-700"
                 >
-                  pukp00@vse.cz
+                  kous09@vse.cz
                 </a>
               </div>
             </div>
