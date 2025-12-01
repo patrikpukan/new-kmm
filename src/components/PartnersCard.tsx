@@ -15,6 +15,8 @@ const partners: Partner[] = [
   { name: "EY", src: "/images/PartnersPage/EY.webp" },
   { name: "EMCO", src: "/images/PartnersPage/emco.webp" },
   { name: "PwC", src: "/images/PartnersPage/pwc.webp" },
+  { name: "Loreal", src: "/images/PartnersPage/Loreal.webp" },
+  { name: "Jaegermeister", src: "/images/PartnersPage/Jaeger.webp" },
 ];
 
 interface PartnersCardProps {
