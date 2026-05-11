@@ -17,7 +17,7 @@ const AboutUsPage = () => {
         {
           name: "Matej Lanko",
           role: "Head of Business Development",
-          bio: "Nájdete ma väčšinou v kníhkupectve, kde rozmýšľam nad novou knihou a rozoberám problémy ľudstva s náhodnými okoloidúcimi",
+          bio: "Ak chceš mať veľký biznis, musíš robiť kruh.",
           image: "/images/Members/management/MatejL.jpeg",
           linkedin:
             "https://www.linkedin.com/in/samuel-gra%C5%88%C3%A1k-472179178/",
@@ -50,19 +50,38 @@ const AboutUsPage = () => {
           linkedin: "https://www.linkedin.com/in/patrik-pukan/",
         },
         {
-          name: "Eliška Pospíšilová",
-          bio: "Nedokážu moc říct ne, takže když mi řekneš skoč z letadla, tak skočim, ale aspoň pak nemám fomo.",
-          image: "/images/Members/marketing/EliskaP.JPG",
-          linkedin:
-            "https://www.linkedin.com/in/eli%C5%A1ka-bardynov%C3%A1-56a07b280/",
+          name: "Dominik Šebor",
+          bio: "Moje svědomí je čisté. Nikdy jsem ho nepoužil.",
+          image: "/images/Members/marketing/DominikS.jpg",
+          linkedin: "https://www.linkedin.com/in/dominik-sebor-510505274/",
         },
 
         {
           name: "Eliška Pospíšilová",
-          bio: "Temporary Koň",
+          bio: "Permanent Koň",
           image: "/images/Members/marketing/EliskaP.jpg",
           linkedin:
             "https://www.linkedin.com/in/eli%C5%A1ka-posp%C3%AD%C5%A1ilov%C3%A1-5881a6334/",
+        },
+        {
+          name: "Lucie Králová",
+          bio: "Permanent Koň",
+          image: "/images/Members/marketing/LucieK.jpg",
+          linkedin:
+            "https://www.linkedin.com/in/lucie-kr%C3%A1lov%C3%A1-873026282/",
+        },
+        {
+          name: "Šárka Koudelková",
+          bio: "Permanent Koň",
+          image: "/images/Members/marketing/SarkaK.jpg",
+          linkedin:
+            "https://www.linkedin.com/in/%C5%A1%C3%A1rka-koudelkov%C3%A1-8a992a260/",
+        },
+        {
+          name: "Ondřej Novák",
+          bio: "Permanent Koň",
+          image: "/images/Members/marketing/OndrejN.jpeg",
+          linkedin: "https://www.linkedin.com/in/ondrej-nov%C3%A1k-8a992a260/",
         },
       ],
     },
