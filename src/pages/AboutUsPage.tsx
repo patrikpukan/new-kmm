@@ -34,7 +34,7 @@ const AboutUsPage = () => {
           name: "Eliška Bardynová",
           role: "Head of Marketing",
           bio: "Můj největší strach je, že mi někdo vymaže Google kalendář.",
-          image: "/images/Members/management/EliskaB.jpg",
+          image: "/images/Members/management/EliskaB.JPG",
           linkedin:
             "https://www.linkedin.com/in/%C5%A1%C3%A1rka-koudelkov%C3%A1-8a992a260/",
         },
@@ -278,7 +278,7 @@ const AboutUsPage = () => {
 
         {/* Department Sections */}
         {Object.entries(departments).map(([key, data]) =>
-          renderDepartment(key, data),
+          renderDepartment(key, data)
         )}
 
         {/* Call to Action */}
