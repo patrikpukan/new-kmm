@@ -35,63 +35,63 @@ const Footer: FC = () => {
               <div>
                 <p className="text-gray-600 leading-snug">
                   <strong className="font-semibold text-gray-800">
-                    Soňa Tomčalová
+                    Eduard Jirásko
                   </strong>
                   <br />
-                  Prezidentka
+                  Prezident
                   <br />
                   <a
-                    href="mailto:kovt07@vse.cz"
+                    href="mailto:jira01@vse.cz"
                     className="text-sky-600 hover:text-sky-700"
                   >
-                    toms07@vse.cz
+                    jira01@vse.cz
                   </a>
                 </p>
               </div>
               <div>
                 <p className="text-gray-600 leading-snug">
                   <strong className="font-semibold text-gray-800">
-                    Samuel Graňák
+                    Matej Lanko
                   </strong>
                   <br />
                   Head of Business Development <br />
                   <a
-                    href="mailto:gras03@vse.cz"
+                    href="mailto:lank01@vse.cz"
                     className="text-sky-600 hover:text-sky-700"
                   >
-                    gras03@vse.cz
+                    lank01@vse.cz
                   </a>
                 </p>
               </div>
               <div>
                 <p className="text-gray-600 leading-snug">
                   <strong className="font-semibold text-gray-800">
-                    Michal Procházka
+                    Štepán Krátký
                   </strong>
                   <br />
                   Head of Event Planning
                   <br />
                   <a
-                    href="mailto:gras03@vse.cz"
+                    href="mailto:krat01@vse.cz"
                     className="text-sky-600 hover:text-sky-700"
                   >
-                    prom30@vse.cz
+                    krat01@vse.cz
                   </a>
                 </p>
               </div>
               <div>
                 <p className="text-gray-600 leading-snug">
                   <strong className="font-semibold text-gray-800">
-                    Šárka Koudelková
+                    Eliška Bardynová
                   </strong>
                   <br />
                   Head of Marketing
                   <br />
                   <a
-                    href="mailto:pukp00@vse.cz"
+                    href="mailto:bard01@vse.cz"
                     className="text-sky-600 hover:text-sky-700"
                   >
-                    kous09@vse.cz
+                    bard01@vse.cz
                   </a>
                 </p>
               </div>

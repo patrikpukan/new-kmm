@@ -10,33 +10,31 @@ const AboutUsPage = () => {
         {
           name: "Eduard Jirásko",
           role: "Prezident",
-          bio: "Život je jako dobrá káva, někdy tě nakopne, jindy se z toho prostě posreš.",
+          bio: "Prezident",
           image: "/images/Members/management/EduardJ.jpg",
-          linkedin: "https://www.linkedin.com/in/so%C5%88atom%C4%8Dalov%C3%A1/",
+          linkedin: "https://www.linkedin.com/in/eduard-jir%C3%A1sko/",
         },
         {
           name: "Matej Lanko",
           role: "Head of Business Development",
           bio: "Ak chceš mať veľký biznis, musíš robiť kruh.",
           image: "/images/Members/management/MatejL.jpeg",
-          linkedin:
-            "https://www.linkedin.com/in/samuel-gra%C5%88%C3%A1k-472179178/",
+          linkedin: "https://www.linkedin.com/in/matej-lanko-510505274/",
         },
 
         {
           name: "Štepán Krátký",
           role: "Head of Event Planning",
-          bio: "Doplníme :)",
+          bio: "Head of Event Planning",
           image: "/images/Members/management/StepanK.jpg",
-          linkedin: "https://www.linkedin.com/in/michalproch%C3%A1zka2002/",
+          linkedin: "https://www.linkedin.com/in/stepan-kratky-510505274/",
         },
         {
           name: "Eliška Bardynová",
           role: "Head of Marketing",
-          bio: "Můj největší strach je, že mi někdo vymaže Google kalendář.",
+          bio: "Head of Marketing",
           image: "/images/Members/management/EliskaB.JPG",
-          linkedin:
-            "https://www.linkedin.com/in/%C5%A1%C3%A1rka-koudelkov%C3%A1-8a992a260/",
+          linkedin: "https://www.linkedin.com/in/eliska-bardynova-71714a260/",
         },
       ],
     },
@@ -65,21 +63,21 @@ const AboutUsPage = () => {
         },
         {
           name: "Lucie Králová",
-          bio: "Permanent Koň",
+          bio: "Marketing",
           image: "/images/Members/marketing/LucieK.jpg",
           linkedin:
             "https://www.linkedin.com/in/lucie-kr%C3%A1lov%C3%A1-873026282/",
         },
         {
           name: "Šárka Koudelková",
-          bio: "Permanent Koň",
+          bio: "Marketing",
           image: "/images/Members/marketing/SarkaK.jpg",
           linkedin:
             "https://www.linkedin.com/in/%C5%A1%C3%A1rka-koudelkov%C3%A1-8a992a260/",
         },
         {
           name: "Ondřej Novák",
-          bio: "Permanent Koň",
+          bio: "Marketing",
           image: "/images/Members/marketing/OndrejN.jpeg",
           linkedin: "https://www.linkedin.com/in/ondrej-nov%C3%A1k-8a992a260/",
         },
@@ -90,7 +88,7 @@ const AboutUsPage = () => {
       members: [
         {
           name: "Michal Procházka",
-          bio: "Doplníme :)",
+          bio: "Event Planning",
           image: "/images/Members/event/MichalP.jpg",
           linkedin:
             "https://www.linkedin.com/in/alexandra-%C5%A1ustkov%C3%A1-403160263/",
@@ -109,17 +107,11 @@ const AboutUsPage = () => {
         },
         {
           name: "Andrea Havelková",
-          bio: "Raz si dole, raz si hore – taký je šport. Pochádzam z Lučenca, takže si asi viete predstaviť, kde sa na tejto osi nachádzam ja.",
+          bio: "Event Planning",
           image: "/images/Members/event/AndreaH.jpg",
           linkedin: "https://www.linkedin.com/in/jan-kantorak-prague/",
         },
 
-        {
-          name: "Lubomír Mach",
-          bio: "Doplníme :)",
-          image: "/images/Members/event/LubomirM.jpg",
-          linkedin: "https://www.linkedin.com/in/lubom%C3%ADr-mach-331909275/",
-        },
         {
           name: "Klára Taterová",
           bio: "Klidná mysl a kreativní duše, která se nezastaví před žádnou výzvou, ať už jde o nové dobrodružství nebo polemizování o světě.",
@@ -144,29 +136,26 @@ const AboutUsPage = () => {
           name: "Soňa Tomčalová",
           bio: "Život je jako dobrá káva, někdy tě nakopne, jindy se z toho prostě posreš.",
           image: "/images/Members/bd/SonaT.jpg",
-          linkedin:
-            "https://www.linkedin.com/in/lucie-bene%C5%A1ov%C3%A1-5a9554274/",
+          linkedin: "https://www.linkedin.com/in/so%C5%88atom%C4%8Dalov%C3%A1/",
         },
         {
           name: "Markéta Macháčková",
-          bio: "Na fotce vypadám vážně, ale ve skutečnosti se pořád směju.✨️ Když zrovna nepeču dortík🎂, jsem pravděpodobně cooked🎀 – a to nejen v kuchyni. 💅🏻",
+          bio: "Business Development",
           image: "/images/Members/bd/MarketaM.jpg",
-          linkedin:
-            "https://www.linkedin.com/in/lucie-bene%C5%A1ov%C3%A1-5a9554274/",
+          linkedin: "https://www.linkedin.com/in/marketa-machac-040301254/",
         },
         {
           name: "Patrik Piatka",
-          bio: "Na fotce vypadám vážně, ale ve skutečnosti se pořád směju.✨️ Když zrovna nepeču dortík🎂, jsem pravděpodobně cooked🎀 – a to nejen v kuchyni. 💅🏻",
+          bio: "Business Development",
           image: "/images/Members/bd/PatrikPia.jpg",
-          linkedin:
-            "https://www.linkedin.com/in/lucie-bene%C5%A1ov%C3%A1-5a9554274/",
+          linkedin: "https://www.linkedin.com/in/patrik-piatka-940201254/",
         },
         {
           name: "Kryštof Štěpánek",
-          bio: "Na fotce vypadám vážně, ale ve skutečnosti se pořád směju.✨️ Když zrovna nepeču dortík🎂, jsem pravděpodobně cooked🎀 – a to nejen v kuchyni. 💅🏻",
+          bio: "Business Development",
           image: "/images/Members/bd/KrystofS.jpg",
           linkedin:
-            "https://www.linkedin.com/in/lucie-bene%C5%A1ov%C3%A1-5a9554274/",
+            "https://www.linkedin.com/in/kry%C5%A1tof-%C5%A1t%C4%9Bp%C3%A1nek-557505274/",
         },
       ],
     },
@@ -278,7 +267,7 @@ const AboutUsPage = () => {
 
         {/* Department Sections */}
         {Object.entries(departments).map(([key, data]) =>
-          renderDepartment(key, data)
+          renderDepartment(key, data),
         )}
 
         {/* Call to Action */}

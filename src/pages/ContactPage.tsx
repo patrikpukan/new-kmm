@@ -35,13 +35,13 @@ const ContactPage: FC = () => {
             <div className="space-y-8">
               {/* President */}
               <div>
-                <h3 className="text-lg font-semibold mb-1">Prezidentka</h3>
-                <p className="font-primary font-semibold">Soňa Tomčalová</p>
+                <h3 className="text-lg font-semibold mb-1">Prezident</h3>
+                <p className="font-primary font-semibold">Eduard Jirásko</p>
                 <a
-                  href="mailto:sont07@vse.cz"
+                  href="mailto:jira01@vse.cz"
                   className="text-sky-600 hover:text-sky-700"
                 >
-                  toms07@vse.cz{" "}
+                  jira01@vse.cz{" "}
                 </a>
               </div>
               {/* BD */}
@@ -49,12 +49,12 @@ const ContactPage: FC = () => {
                 <h3 className="text-lg font-semibold mb-1">
                   Head of Business Development
                 </h3>
-                <p className="font-primary font-semibold">Samuel Graňák</p>
+                <p className="font-primary font-semibold">Matej Lanko</p>
                 <a
-                  href="mailto:gras03@vse.cz"
+                  href="mailto:lank01@vse.cz"
                   className="text-sky-600 hover:text-sky-700"
                 >
-                  gras03@vse.cz
+                  lank01@vse.cz
                 </a>
               </div>
               {/* Event Planning */}
@@ -62,12 +62,12 @@ const ContactPage: FC = () => {
                 <h3 className="text-lg font-semibold mb-1">
                   Head of Event Planning
                 </h3>
-                <p className="font-primary font-semibold">Michal Procházka</p>
+                <p className="font-primary font-semibold">Štepán Krátký</p>
                 <a
-                  href="mailto:gras03@vse.cz"
+                  href="mailto:krat01@vse.cz"
                   className="text-sky-600 hover:text-sky-700"
                 >
-                  prom30@vse.cz
+                  krat01@vse.cz
                 </a>
               </div>
 
@@ -76,12 +76,12 @@ const ContactPage: FC = () => {
                 <h3 className="text-lg font-semibold mb-1">
                   Head of Marketing
                 </h3>
-                <p className="font-primary font-semibold">Šárka Koudelková</p>
+                <p className="font-primary font-semibold">Eliška Bardynová</p>
                 <a
-                  href="mailto:pukp00@vse.cz"
+                  href="mailto:bard01@vse.cz"
                   className="text-sky-600 hover:text-sky-700"
                 >
-                  kous09@vse.cz
+                  bard01@vse.cz
                 </a>
               </div>
             </div>
