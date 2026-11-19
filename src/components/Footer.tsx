@@ -41,10 +41,10 @@ const Footer: FC = () => {
                   Prezident
                   <br />
                   <a
-                    href="mailto:jira01@vse.cz"
+                    href="mailto:jire05@vse.cz"
                     className="text-sky-600 hover:text-sky-700"
                   >
-                    jira01@vse.cz
+                    jire05@vse.cz
                   </a>
                 </p>
               </div>
@@ -56,10 +56,10 @@ const Footer: FC = () => {
                   <br />
                   Head of Business Development <br />
                   <a
-                    href="mailto:lank01@vse.cz"
+                    href="mailto:lanm25@vse.cz"
                     className="text-sky-600 hover:text-sky-700"
                   >
-                    lank01@vse.cz
+                    lanm25@vse.cz
                   </a>
                 </p>
               </div>
@@ -72,10 +72,10 @@ const Footer: FC = () => {
                   Head of Event Planning
                   <br />
                   <a
-                    href="mailto:krat01@vse.cz"
+                    href="mailto:kras14@vse.cz"
                     className="text-sky-600 hover:text-sky-700"
                   >
-                    krat01@vse.cz
+                    kras14@vse.cz
                   </a>
                 </p>
               </div>
@@ -88,10 +88,10 @@ const Footer: FC = () => {
                   Head of Marketing
                   <br />
                   <a
-                    href="mailto:bard01@vse.cz"
+                    href="mailto:bare21@vse.cz"
                     className="text-sky-600 hover:text-sky-700"
                   >
-                    bard01@vse.cz
+                    bare21@vse.cz
                   </a>
                 </p>
               </div>

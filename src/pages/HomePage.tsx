@@ -90,24 +90,21 @@ const HomePage: FC = () => {
           <div className="flex flex-col md:flex-row items-center gap-6">
             <div className="w-full md:w-60 h-48 md:h-60 rounded-lg overflow-hidden">
               <img
-                src="/images/Members/management/SonaTomcalova.jpg"
-                alt="Soňa Tomčalová"
+                src="/images/Members/management/EduardJ.jpg"
+                alt="Eduard Jirásko"
                 className="w-full h-full object-cover"
               />
             </div>
             <div className="flex-1 flex flex-col justify-center">
               <div className="mb-4 md:mb-6">
-                <p className="text-gray-700 leading-relaxed text-base md:text-lg italic">
-                  "Život je jako dobrá káva, někdy tě nakopne, jindy se z toho
-                  prostě posreš."
-                </p>
+                <p className="text-gray-700 leading-relaxed text-base md:text-lg italic"></p>
               </div>
               <div>
                 <p className="text-sky-600 font-primary font-semibold">
-                  Soňa Tomčalová{" "}
+                  Eduard Jirásko{" "}
                 </p>
                 <p className="text-gray-500 text-sm">
-                  prezidentka Klubu mladých manažerů
+                  prezident Klubu mladých manažerů
                 </p>
               </div>
             </div>

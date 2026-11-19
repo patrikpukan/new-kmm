@@ -81,6 +81,26 @@ const AboutUsPage = () => {
           image: "/images/Members/marketing/OndrejN.jpeg",
           linkedin: "https://www.linkedin.com/in/ondrej-nov%C3%A1k-8a992a260/",
         },
+        {
+          name: "Lea Jakimičová",
+          bio: "Marketing",
+          image: "/images/Members/marketing/LeaJ.jpg",
+        },
+        {
+          name: "Jozef Teplický",
+          bio: "Marketing",
+          image: "/images/Members/marketing/JozefT.jpg",
+        },
+        {
+          name: "Matěj Novák",
+          bio: "Marketing",
+          image: "/images/Members/marketing/MatejN.jpg",
+        },
+        {
+          name: "Linda Mrníková",
+          bio: "Marketing",
+          image: "/images/Members/marketing/LindaM.jpg",
+        },
       ],
     },
     eventPlanning: {
@@ -127,6 +147,31 @@ const AboutUsPage = () => {
           linkedin:
             "https://www.linkedin.com/in/lucie-se%C4%8Dka%C5%99ov%C3%A1-914a16352/",
         },
+        {
+          name: "Vojtěch Černovský",
+          bio: "Event Planning",
+          image: "/images/Members/event/VojtechC.jpg",
+        },
+        {
+          name: "Timotej Červeň",
+          bio: "Event Planning",
+          image: "/images/Members/event/TimotejC.jpg",
+        },
+        {
+          name: "Ivana Pardubická",
+          bio: "Event Planning",
+          image: "/images/Members/event/IvanaP.jpg",
+        },
+        {
+          name: "Nikol Hrubá",
+          bio: "Event Planning",
+          image: "/images/Members/event/NikolH.jpg",
+        },
+        {
+          name: "Monika Gadasová",
+          bio: "Event Planning",
+          image: "/images/Members/event/MonikaG.jpg",
+        },
       ],
     },
     businessDevelopment: {
@@ -156,6 +201,21 @@ const AboutUsPage = () => {
           image: "/images/Members/bd/KrystofS.jpg",
           linkedin:
             "https://www.linkedin.com/in/kry%C5%A1tof-%C5%A1t%C4%9Bp%C3%A1nek-557505274/",
+        },
+        {
+          name: "Matěj Mirejovský",
+          bio: "Business Development",
+          image: "/images/Members/bd/MatejMir.jpg",
+        },
+        {
+          name: "Matěj Mach",
+          bio: "Business Development",
+          image: "/images/Members/bd/MatejMac.jpg",
+        },
+        {
+          name: "Nicol Macasová",
+          bio: "Business Development",
+          image: "/images/Members/bd/NicolM.jpg",
         },
       ],
     },
